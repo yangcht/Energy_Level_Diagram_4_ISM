@@ -1,4 +1,4 @@
-# Energy_Level_Diagram_4_ISM
+# Energy Level Diagram for ISM
 - Draw energy level diagram using CDMS/JPL catalogues 
 - Including transitions indicated by arrows, defined with `transitions.txt`.
 
